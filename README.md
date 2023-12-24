@@ -1,8 +1,9 @@
 # Projet_R-emissions_CO2_vehicules
 
-University project carried out during the 3rd year of my degree. The objective is to create and apply the first prediction models studied. The work is carried out on a vehicle database to predict CO2 emissions made available on the DataGouv.fr website.
-
 ![University Logo](https://upload.wikimedia.org/wikipedia/en/f/f8/Université_Paris_Cité_logo.svg)
+
+
+University project carried out during the 3rd year of my degree. The objective is to create and apply the first prediction models studied. The work is carried out on a vehicle database to predict CO2 emissions made available on the DataGouv.fr website.
 
 ## Project Overview
 
