@@ -2,6 +2,8 @@
 
 University project carried out during the 3rd year of my degree. The objective is to create and apply the first prediction models studied. The work is carried out on a vehicle database to predict CO2 emissions made available on the DataGouv.fr website.
 
+![University Logo](Université_Paris_Cité_logo.svg.png)
+
 ## Project Overview
 
 This project focuses on the analysis and prediction of CO2 emissions from a vehicle database. The dataset is sourced from DataGouv.fr and serves as the basis for creating and applying predictive models.
